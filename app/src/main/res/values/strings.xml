@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">First Lib</string>
+    <string name="app_name">Merlins Grimoire</string>
+    <string name="facebook_app_id">1154200455542184</string>
+    <string name="facebook_client_token">f2745c7757a9f136ad3a98d9d08c2a33</string>
 </resources>
